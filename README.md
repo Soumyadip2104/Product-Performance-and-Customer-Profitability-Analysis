@@ -37,6 +37,9 @@ Average Delivery Time by Region
 Customers with Maximum Repeat Orders
 Correlation Between Product Price and Sales
 
+# Dashboard Screenshot
+![image](https://github.com/user-attachments/assets/cc3026f8-23c0-459e-9153-c601235fd749)
+
 # Future Improvements
 Automate data refresh using SQL stored procedures
 Use ML models for predictive analysis
