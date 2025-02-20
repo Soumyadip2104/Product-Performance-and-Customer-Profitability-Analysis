@@ -12,8 +12,7 @@ This project analyzes product performance, customer segmentation, and profitabil
 │   ├── Data_Transformation.sql  
 │   ├── Intermediate_Level_Queries.sql  
 │── 📂 PowerBI  
-│   ├── Product_Analysis.pbix  
-│   ├── DAX_Measures.txt  
+│   ├── Product_Analysis.pbix   
 │── 📂 Images  
 │   ├── Dashboard_Screenshot.png 
 
@@ -41,9 +40,9 @@ This project analyzes product performance, customer segmentation, and profitabil
 ![image](https://github.com/user-attachments/assets/cc3026f8-23c0-459e-9153-c601235fd749)
 
 # Future Improvements
-Automate data refresh using SQL stored procedures
-Use ML models for predictive analysis
-Enhance interactivity with dynamic slicers
+1. Automate data refresh using SQL stored procedures
+2. Use ML models for predictive analysis
+3. Enhance interactivity with dynamic slicers
 
 # Contributors
 👤 Soumyadip Bhattacharya - Business Analyst
