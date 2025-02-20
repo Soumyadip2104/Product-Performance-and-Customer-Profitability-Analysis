@@ -26,16 +26,16 @@ This project analyzes product performance, customer segmentation, and profitabil
 1. Extracted Order Year and Order Month
 2. Categorized customers into High-Value, Medium-Value, and Low-Value
 ## Key Questions and Insights (SQL/Insights.sql)
-Total Sales and Profit by Category
-Top 10 Customers by Sales
-Year-over-Year Sales Growth
-Products with Highest Returns
-Customer Retention Analysis
-Shipping Method Efficiency
-Best-Selling Products by Quantity
-Average Delivery Time by Region
-Customers with Maximum Repeat Orders
-Correlation Between Product Price and Sales
+1. Total Sales and Profit by Category
+2. Top 10 Customers by Sales
+3. Year-over-Year Sales Growth
+4. Products with Highest Returns
+5. Customer Retention Analysis
+6. Shipping Method Efficiency
+7. Best-Selling Products by Quantity
+8. Average Delivery Time by Region
+9. Customers with Maximum Repeat Orders
+10. Correlation Between Product Price and Sales
 
 # Dashboard Screenshot
 ![image](https://github.com/user-attachments/assets/cc3026f8-23c0-459e-9153-c601235fd749)
