@@ -23,9 +23,8 @@ This project analyzes product performance, customer segmentation, and profitabil
 2. Standardized date formats
 3. Filled missing values in Customer Segment
 ## Data Transformation (SQL/Data_Transformation.sql)
-1. Created Profit Margin % as Profit / Sales
-2. Extracted Order Year and Order Month
-3. Categorized customers into High-Value, Medium-Value, and Low-Value
+1. Extracted Order Year and Order Month
+2. Categorized customers into High-Value, Medium-Value, and Low-Value
 ## Key Questions and Insights (SQL/Insights.sql)
 Total Sales and Profit by Category
 Top 10 Customers by Sales
